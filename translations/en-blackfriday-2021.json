@@ -2,7 +2,7 @@
 {
   "blackfriday-2021": {
     "subject": "Black Friday Offers",
-    "greeting": "Hello {{firstName}}",
+    "greeting": "Hello",
     "body":"20% discount on all Tractive products and subscriptions this Black Friday",
     "cta":"Buy Now!"
   }
