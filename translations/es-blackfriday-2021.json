@@ -1,7 +1,7 @@
 {
   "blackfriday-2021": {
     "subject": "Ofertas Black Friday en alemán",
-    "greeting": "Hola {{firstName}}",
+    "greeting": "Hola",
     "body":"20% de descuento en todos los productos y suscripciones de Tractive este Black Friday",
     "cta":"¡Compra ahora!"
   }
