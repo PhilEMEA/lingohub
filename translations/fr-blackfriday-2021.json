@@ -1,7 +1,7 @@
 {
   "blackfriday-2021": {
     "subject": "Offres du Vendredi fou",
-    "greeting": "Bonjour {{firstName}}",
+    "greeting": "Bonjour",
     "body":"20% de réduction sur tous les produits et abonnements Tractive ce Black Friday",
     "cta":"Acheter maintenant!"
   }
