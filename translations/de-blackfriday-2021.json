@@ -1,7 +1,7 @@
 {
   "blackfriday-2021": {
     "subject": "Black Friday Angebote auf Deutsch",
-    "greeting": "Hallo {{firstName}}",
+    "greeting": "Hallo",
     "body":"20% Rabatt auf alle Tractive Produkte und Abonnements an diesem Black Friday",
     "cta":"Kaufe Jetzt!"
   }
